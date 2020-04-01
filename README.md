@@ -19,9 +19,21 @@ The expected output should be something like this:
 	
 ## Perl
 
-## Ruby
+## Ruby - Fibonacci Number Calculator Program
+This program calculates the nth number in the sequence of Fibonacci numbers. It asks user for which number in the sequence, user enters that number, it calculates and prints that number.
 
-## Python
+To run this program, please use this command:
+
+	ruby fibonacci.rb
+
+The expected output should be:
+
+	Please enter a number identifying the nth Fibonacci number you want calculated:
+	20
+	The 20th number of the Fibonacci sequence is 6765.
+
+
+## Python - Diamond Printer Program
 This program prints out a diamond of a specified character to standard output (terminal). Asks user what character, prints diamond. Exits.
 
 Execute the code using this command:
