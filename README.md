@@ -52,7 +52,7 @@ The expected output should be something like this:
 	
 	Welcome to my diamond printing program!
 	Please enter a character to print the diamond with: x
-    		x
+	        x
    	       xxx
   	      xxxxx
  	     xxxxxxx
@@ -60,5 +60,5 @@ The expected output should be something like this:
  	     xxxxxxx
   	      xxxxx
    	       xxx
-    	        x
+	        x
 
